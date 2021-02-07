@@ -781,8 +781,7 @@ definitions:
 info:
   contact: {}
   description: |-
-    基于Gin + Vue + Element UI的前后端分离权限管理系统的接口文档
-    添加qq群: 74520518 进入技术交流群 请备注，谢谢！
+    Gin + Vue 牙科诊所管理系统 API 文档
   license:
     name: MIT
     url: https://github.com/wenjianzhang/go-admin/blob/master/LICENSE.md

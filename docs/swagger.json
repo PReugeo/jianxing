@@ -1,8 +1,8 @@
 {
     "swagger": "2.0",
     "info": {
-        "description": "基于Gin + Vue + Element UI的前后端分离权限管理系统的接口文档\n添加qq群: 74520518 进入技术交流群 请备注，谢谢！",
-        "title": "go-admin API",
+        "description": "鉴星牙科诊所API",
+        "title": "dentist API",
         "contact": {},
         "license": {
             "name": "MIT",

@@ -3762,7 +3762,7 @@ var SwaggerInfo = swaggerInfo{
 	BasePath:    "",
 	Schemes:     []string{},
 	Title:       "go-admin API",
-	Description: "基于Gin + Vue + Element UI的前后端分离权限管理系统的接口文档\n添加qq群: 74520518 进入技术交流群 请备注，谢谢！",
+	Description: "鉴星诊所管理系统API",
 }
 
 type s struct{}
