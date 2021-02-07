@@ -1,24 +1,3 @@
-<p align="center">
-  <img width="320" src="https://gitee.com/mydearzwj/image/raw/master/img/go-admin.svg">
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/wenjianzhang/go-admin">
-    <img src="https://github.com/wenjianzhang/go-admin/workflows/build/badge.svg" alt="go-admin">
-  </a>
-  <a href="https://github.com/wenjianzhang/go-admin">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </a>
-    <a href="http://doc.zhangwj.com/go-admin-site/donate/">
-    <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
-  </a>
-</p>
-
-
-  [English](https://github.com/go-admin-team/go-admin/blob/master/README.en.md) | 简体中文
-
-
 ##### 基于Gin + Vue + Element UI的前后端分离权限管理系统 
 
 系统初始化极度简单，只需要配置文件中，修改数据库连接，系统启动后会自动初始化数据库信息以及必须的基础数据
