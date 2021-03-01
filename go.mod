@@ -11,10 +11,10 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-admin-team/go-admin-core v1.2.2
-	github.com/go-redis/redis/v7 v7.4.0
+	github.com/go-redis/redis/v7 v7.4.0 // indirect
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/websocket v1.4.2
-	github.com/matchstalk/redisqueue v1.0.3
+	github.com/matchstalk/redisqueue v1.0.3 // indirect
 	github.com/mojocn/base64Captcha v1.3.1
 	github.com/mssola/user_agent v0.5.2
 	github.com/opentracing/basictracer-go v1.1.0 // indirect
@@ -35,7 +35,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
 	gorm.io/driver/mysql v0.3.2
 	gorm.io/driver/postgres v0.2.9
-	gorm.io/driver/sqlite v1.0.9
+	gorm.io/driver/sqlite v1.0.9 // indirect
 	gorm.io/gorm v1.20.1
 	sourcegraph.com/sourcegraph/appdash v0.0.0-20190731080439-ebfcffb1b5c0
 	sourcegraph.com/sourcegraph/appdash-data v0.0.0-20151005221446-73f23eafcf67 // indirect

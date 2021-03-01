@@ -116,7 +116,6 @@ func (e *PatientRecords) UpdatePatientRecords(c common.ActiveRecord, p *actions.
 	}
 	if db.RowsAffected == 0 {
 		return errors.New("无权更新该数据")
-
 	}
 	return nil
 }
